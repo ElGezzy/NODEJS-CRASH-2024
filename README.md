@@ -11,7 +11,7 @@ A simple Node.js project following Brad Traversy's crash course.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/nodejs-crash-2024.git
+    git clone https://github.com/ElGezzy/NODEJS-CRASH-2024.git
     ```
 2. Install dependencies:
     ```bash
