@@ -17,9 +17,15 @@ A simple Node.js project following Brad Traversy's crash course.
     ```bash
     npm install
     ```
-3. Run the project:
+
+3. Run the Project:
     ```bash
-    node index.js
+    npm run server
+    ``` 
+    
+4. Run Individual files:
+    ```bash
+    node 'file_name' eg: index.js or osDemo.js
     ```
 
 ## Environment Variables
